@@ -1,0 +1,9 @@
+[submodule "simple_listview_flutter"]
+	path = simple_listview_flutter
+	url = https://github.com/zakwandhiya/simple_listview_flutter.git
+[submodule "simple_input_flutter"]
+	path = simple_input_flutter
+	url = https://github.com/zakwandhiya/simple_input_flutter.git
+[submodule "color_wheel_flutter"]
+	path = color_wheel_flutter
+	url = https://github.com/zakwandhiya/color_wheel_flutter.git
