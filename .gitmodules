@@ -7,3 +7,6 @@
 [submodule "color_wheel_flutter"]
 	path = color_wheel_flutter
 	url = https://github.com/zakwandhiya/color_wheel_flutter.git
+[submodule "navigation_flutter"]
+	path = navigation_flutter
+	url = https://github.com/zakwandhiya/navigation_flutter.git
