@@ -10,3 +10,6 @@
 [submodule "navigation_flutter"]
 	path = navigation_flutter
 	url = https://github.com/zakwandhiya/navigation_flutter.git
+[submodule "image_assets"]
+	path = image_assets
+	url = https://github.com/zakwandhiya/image_assets.git
