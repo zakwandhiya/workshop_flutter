@@ -13,3 +13,12 @@
 [submodule "image_assets"]
 	path = image_assets
 	url = https://github.com/zakwandhiya/image_assets.git
+[submodule "flutter_http_request_example"]
+	path = flutter_http_request_example
+	url = https://github.com/zakwandhiya/flutter_http_request_example.git
+[submodule "statefull_widget_flutter"]
+	path = statefull_widget_flutter
+	url = https://github.com/zakwandhiya/statefull_widget_flutter.git
+[submodule "image_assets_flutter"]
+	path = image_assets_flutter
+	url = https://github.com/zakwandhiya/image_assets_flutter.git
