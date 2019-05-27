@@ -22,3 +22,6 @@
 [submodule "image_assets_flutter"]
 	path = image_assets_flutter
 	url = https://github.com/zakwandhiya/image_assets_flutter.git
+[submodule "bloc_pattern_flutter"]
+	path = bloc_pattern_flutter
+	url = https://github.com/zakwandhiya/bloc_pattern_flutter.git
