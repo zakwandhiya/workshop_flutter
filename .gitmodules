@@ -25,3 +25,6 @@
 [submodule "bloc_pattern_flutter"]
 	path = bloc_pattern_flutter
 	url = https://github.com/zakwandhiya/bloc_pattern_flutter.git
+[submodule "scoped_model_flutter"]
+	path = scoped_model_flutter
+	url = https://github.com/zakwandhiya/scoped_model_flutter.git
